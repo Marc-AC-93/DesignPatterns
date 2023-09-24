@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "arrow": "npx ts-node ./src/ArrowFunctions/functionsExample.ts"
+    "arrow": "ts-node ./src/ArrowFunctions/functionsExample.ts",
+    "singleton": "ts-node ./src/Singleton/Singleton.ts"
   },
   "keywords": [],
   "author": "",
